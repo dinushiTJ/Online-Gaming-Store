@@ -1,5 +1,5 @@
 # Online-Gaming-Store
-The system for the online gaming store is a group project developed using JAVA but here I attached the part that I have completed (JSP and Servelets) according to MVC architecture. Bootstrap, HTML, CSS and JavaScript were used to develop the front-end of this application. Plus, for back-end was implemented by using JSP and Servelets on Apache Tomcat Server. The database was implemented using MYSQL via PHPMYAdmin. 
+The system for the online gaming store is a group project developed but here I attached the part that I have completed. This system build using JAVA  (JSP and Servelets) according to MVC architecture. Bootstrap, HTML, CSS and JavaScript were used to develop the front-end of this application. Plus, for back-end was implemented by using JSP and Servelets on Apache Tomcat Server. The database was implemented using MYSQL via PHPMYAdmin. 
 
 Snap shots of Screens
 ![HOME](https://user-images.githubusercontent.com/63807534/165897937-2cebd43f-d24a-426d-aa8f-562e7ea73d09.png)
